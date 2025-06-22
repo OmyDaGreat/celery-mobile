@@ -9,7 +9,7 @@ compose-plugin = "1.8.2"
 kotlin = "2.1.21"
 ktorClientCore = "3.2.0"
 pluginSerializationV = "2.1.21"
-spotlessV = "7.0.3"
+spotlessV = "7.0.4"
 precomposeV = "1.7.0-alpha03"
 
 [libraries]
